@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Dinesh Balani 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+<p><em>Software Engineer at <a href="http://www.microsoft.com">Microsoft</a> <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="15"> 
+</em></p>
+
+## 👨‍💻 A little more about me...  
+Tech nerd, born in India. Grown up playing games and geeking on my pc. Moved to USA 4 years ago. Looking to make  
+
+- 🔭 I’m currently working in <img href = "https://docs.microsoft.com/en-us/azure/machine-learning" src="https://miro.medium.com/max/750/0*jp2Q4PTmFPCek02g" width="15"> Azure Machine Learning team with focus on distributed computing
+- 🌱 I’m currently learning about different distributed systems frameworks and also improving my knowledge in machine learning.
+- 👯 I’m looking to collaborate on projects for noble causes. Hit me up if you would like to discuss and collaborate on this.
+- 💬 Ask me about tech, chess, healthy lifestyle
+- 😄 Pronouns: **He**/**Him**
+- ⚡ Fun fact: I have done 6 internships in all types of industries (healthcare, Oil & Gas, IT)  
 
 <!--
 **dineshbalani/dineshbalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
