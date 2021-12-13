@@ -11,7 +11,7 @@ Tech nerd, born in India. Grown up playing games and geeking on my pc. Moved to 
 - 👯 I’m looking to collaborate on projects for noble causes. Hit me up if you would like to discuss and collaborate on this.
 - 💬 Ask me about tech, chess, healthy lifestyle
 - 😄 Pronouns: **He**/**Him**
-- ⚡ Fun fact: I have done 6 internships in all types of industries (healthcare, Oil & Gas, IT)  
+- ⚡ Fun fact: I have done 6 internships in different types of industries (Healthcare, Oil & Gas, IT)  
 
 <!--
 **dineshbalani/dineshbalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
