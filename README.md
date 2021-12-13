@@ -3,6 +3,12 @@
 <p><em>Software Engineer at <a href="http://www.microsoft.com">Microsoft</a> <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" width="15"> 
 </em></p>
 
+#### You can find me at:
+
+[![Linkedin Badge](https://img.shields.io/badge/-balanidinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balanidinesh/)](https://www.linkedin.com/in/balanidinesh/)
+[![Medium Badge](https://img.shields.io/badge/-@dineshbalani-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dineshbalani)](https://medium.com/@dineshbalani)
+[![Gmail Badge](https://img.shields.io/badge/-dnshb92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnshb92@gmail.com)](mailto:dnshb92@gmail.com)
+
 ## 👨‍💻 A little more about me...  
 Tech nerd, born in India. Grown up playing games and geeking on my pc. Moved to USA 4 years ago. Looking to make  
 
