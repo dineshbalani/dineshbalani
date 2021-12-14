@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dnshb92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnshb92@gmail.com)](mailto:dnshb92@gmail.com)
 
 ## 👨‍💻 A little more about me...  
-Tech nerd, born in India. Grown up playing games and geeking on my pc. Moved to USA 4 years ago. Looking to make  
+Tech nerd, born in India. Grown up playing games and geeking on my pc. Moved to USA 4 years ago.
 
 - 🔭 I’m currently working in <img href = "https://docs.microsoft.com/en-us/azure/machine-learning" src="https://miro.medium.com/max/750/0*jp2Q4PTmFPCek02g" width="15"> Azure Machine Learning team with focus on distributed computing
 - 🌱 I’m currently learning about different distributed systems frameworks and also improving my knowledge in machine learning.
